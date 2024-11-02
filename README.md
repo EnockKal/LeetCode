@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/EnockKal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/EnockKal/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0778-reorganize-string](https://github.com/EnockKal/LeetCode/tree/master/0778-reorganize-string) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/EnockKal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0778-reorganize-string](https://github.com/EnockKal/LeetCode/tree/master/0778-reorganize-string) |
 ## Greedy
 |  |
@@ -56,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/EnockKal/LeetCode/tree/master/0141-linked-list-cycle) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/EnockKal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
