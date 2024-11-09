@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/EnockKal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0412-fizz-buzz](https://github.com/EnockKal/LeetCode/tree/master/0412-fizz-buzz) |
 | [0778-reorganize-string](https://github.com/EnockKal/LeetCode/tree/master/0778-reorganize-string) |
 ## Greedy
 |  |
@@ -89,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/EnockKal/LeetCode/tree/master/1791-richest-customer-wealth) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/EnockKal/LeetCode/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/EnockKal/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
