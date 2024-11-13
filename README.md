@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/EnockKal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/EnockKal/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0383-ransom-note](https://github.com/EnockKal/LeetCode/tree/master/0383-ransom-note) |
 | [0778-reorganize-string](https://github.com/EnockKal/LeetCode/tree/master/0778-reorganize-string) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/EnockKal/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0383-ransom-note](https://github.com/EnockKal/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/EnockKal/LeetCode/tree/master/0412-fizz-buzz) |
 | [0778-reorganize-string](https://github.com/EnockKal/LeetCode/tree/master/0778-reorganize-string) |
 ## Greedy
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/EnockKal/LeetCode/tree/master/0383-ransom-note) |
 | [0778-reorganize-string](https://github.com/EnockKal/LeetCode/tree/master/0778-reorganize-string) |
 ## Tree
 |  |
