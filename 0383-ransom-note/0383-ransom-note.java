@@ -10,7 +10,7 @@ class Solution {
             if(magazineCount.getOrDefault(c, 0) == 0){
                 return false;
             }
-            magazineCount.put(c, magazineCount.get(c) - 1);
+            magazineCount.put(c, magazineCount.getOrDefault(c, 0) - 1);
         }
 
         return true;
